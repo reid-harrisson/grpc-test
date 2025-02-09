@@ -1,1 +1,1 @@
-# grpc-practise
+# gRPC test
